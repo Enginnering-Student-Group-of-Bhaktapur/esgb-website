@@ -5,33 +5,36 @@ function AboutLimelight() {
     <React.Fragment>
       <h2>About Limelight</h2>
       <p className="text-justify">
-        Ein und ihr kommt ich glück das naht der mit, glück naht neu sehnen
-        weiten erste an faßt. Die auf schatten gezeigt manche, längst äolsharfe
-        trüben der lied früh seelen, die was mit entwöhntes faßt nun herz.
-        Verklungen gleich ertönt die ich. Seelen ihr stillen weiten steigen
-        gleich zug und und schöne. Trüben schwankende welt wiederholt geneigt
-        tönen ernsten mit früh. Bringt meinem der herauf euch, entwöhntes erste
-        stunden was längst aus walten die, beifall ihr auf walten weich, herz
-        wirklichkeiten lied im mild was ihr und stunden gestalten. Wie mit mein
-        in der
+        Welcome to The Limelight, a distinguished research journal that has been
+        making waves since its inception in 2005 by the Engineering Students’
+        Group of Bhaktapur (ESGB) within the Institute of Engineering (IOE),
+        Pulchowk Campus. Initially conceived by ESGB seniors, The Limelight's
+        journey began with the aim of nurturing research and writing habits
+        among engineering students at Pulchowk Campus. Over the years, it has
+        grown into a respected periodical, expanding its horizons to include
+        technical writings and research articles, thus establishing itself as a
+        key player in the engineering academic landscape.
       </p>
       <p className="text-justify">
-        Sentant phosphores poteaux taches cibles nacreux noire revé m'ont, les
-        vu d'or le dans mes les ou jour et, amour les des pantheres qu'on nager
-        fermenter. Violets la aux mes nuit enivrantes. Voulu sous des drames
-        exquise des, mes faisaient je écumes mur j'aille blonds mois plein
-        songer, aux travers.
+        At the core of The Limelight's mission is the commitment to enhancing
+        the research and writing skills of students. Serving as a catalyst for
+        academic growth, the journal has become a crucial platform for students
+        and alumni to showcase their intellectual prowess. The inclusive nature
+        of The Limelight is evident in its open invitation for research articles
+        and technical writings from all disciplines, extending a global welcome
+        to contributions from students, professors, and researchers.
       </p>
       <p className="text-justify">
-        Buabeleul ulud en viragnac aniath en fuhazatum ez ualmun egyre. Myth
-        scepsegud kunuel felleyn hioll, maraggun urumemtuul sumha kynzathul
-        wirud, fyomnok farad urodum ezes hioll engumet vh num kegulm, erzem
-        egyre felleyn scouuo farad nequem vylagumtul fugwa nym. Ezes fyaal
-        wyzeul urumemtuul olelothya. Uiraga iunhum hullothya o de halal fyom
-        scepsegud wylag. The fyaal scemem eggen werethul werethul ulud
-        urumemtuul epedek kynaal. O werethul sydou ualallal thez ozuk hyul kyt
-        merth wylag. Fyom niha hol scegenul num. Arad werud ezes.
+        The Limelight takes pride in being more than just a journal; it is a
+        community-driven initiative that thrives on collaboration and
+        knowledge-sharing. The journal's dedication to fostering a culture of
+        research extends beyond Pulchowk Campus, encompassing a diverse range of
+        talents and perspectives. Through the publication of research articles
+        from alumni engaged in cutting-edge technologies and diverse research
+        fields, The Limelight keeps its readers abreast of the latest
+        advancements and innovative ideas in the engineering realm.
       </p>
+      
     </React.Fragment>
   );
 }

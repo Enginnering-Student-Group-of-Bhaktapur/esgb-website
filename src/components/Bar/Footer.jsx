@@ -31,7 +31,7 @@ function Footer() {
             </span>
             <br />
             <span>
-              <Link to="/limelight">Lime Light</Link>
+              <Link to="/limelight">The Limelight</Link>
             </span>
             <br />
             <span>

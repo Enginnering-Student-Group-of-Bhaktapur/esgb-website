@@ -43,7 +43,7 @@ function About() {
           <div id="team">
             <div className="row">
               <div className="col-md-12">
-                <h2 className="text-center py-3">Our Team Members</h2>
+                <h2 className="text-center py-3">20th Executive Committee</h2>
               </div>
             </div>
 
