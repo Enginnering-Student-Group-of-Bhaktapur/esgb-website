@@ -12,7 +12,7 @@ function MediaEventFormat({ mediaEvent }) {
           width="100"
         />
         <div className="media-body">
-          <h6 className="m-0">{mediaEvent.title}</h6>
+          <h6 className="m-0" style={{fontWeight:"bold"}}>{mediaEvent.title}</h6>
           <ReactMarkdown>{mediaEvent.description.slice(0, 60)}</ReactMarkdown>
           <a href={`/events/${mediaEvent.slug}`}>Continue reading...</a>
         </div>
