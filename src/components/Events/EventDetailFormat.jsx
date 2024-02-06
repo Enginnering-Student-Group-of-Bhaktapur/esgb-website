@@ -32,7 +32,7 @@ function EventDetailFormat({ event }) {
         {console.log(event)}
         <img src={event.main_image} alt="main" className="img-fluid" />
       </div>
-      <div className="event description">
+      <div className="event description" style={{textAlign:"justify"}}>
         <ReactMarkdown>{event.description}</ReactMarkdown>
       </div>
       <EventGallery event_images={event_sub_image} />
