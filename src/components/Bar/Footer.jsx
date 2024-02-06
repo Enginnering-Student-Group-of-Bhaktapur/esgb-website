@@ -1,9 +1,8 @@
 import React from "react";
 import Banner from "../../assets/img/banner.png";
-import Logo from "../../assets/img/logo.png"
+import Logo from "../../assets/img/logo.png";
 
-import {Link} from 'react-router-dom';
-
+import { Link } from "react-router-dom";
 
 function Footer() {
   return (
@@ -13,15 +12,20 @@ function Footer() {
           <div className="col-md-4">
             <h5>About ESGB</h5>
             <p className="text-justify">
-              Ee lyres his massy concubines him and nor his was. Mother left
-              hall longed was and made sea. Of oh he vaunted break smile condole
-              what way. Sun was not disappointed this feud ofttimes a. Hour nor
-              deigned but he such yet vast deemed. Not if holy shrine hill.
-              Later oh from unto losel break dwell heartless prose. Him maidens
-              birth old care massy but, flow heart the to wins objects. To the
-              heart known fabled his his from than, fountain and known to but
-              befell delight. The finds be these mote, condemned far girls clay
-              from of fathers lurked...
+              The Engineering Students' Group of Bhaktapur (ESGB) was
+              established on February 14, 2002, by enthusiastic students from
+              Bhaktapur district studying at IOE, Pulchowk Campus. Initially
+              formed to address transportation challenges for Bhaktapurian
+              students, ESGB successfully collaborated with the campus
+              administration to provide two buses for their commute. Over time,
+              the group expanded its objectives to include organizing various
+              student-oriented programs such as trainings, workshops, and
+              competitions. ESGB also actively fosters inner and outer
+              development of students, enhancing bonds among members. The group
+              conducts different events like Deusi Bhailo, Welcome and Farewell,
+              Futsal etc . Since 2004, ESGB has been publishing an annual
+              technical journal called "The Limelight," with seven volumes
+              released to date.
             </p>
           </div>
           <div className="col-md-4">

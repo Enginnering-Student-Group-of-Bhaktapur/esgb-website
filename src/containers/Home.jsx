@@ -17,8 +17,8 @@ function Home() {
         <title>ESGB - Engineering Students Group of Bhaktapur(ESGB)</title>
       </Helmet>
       <Carousel />
-      <FounderMessage />
-      <Dress />
+      {/* <FounderMessage /> */}
+      {/* <Dress /> */}
     </React.Fragment>
   );
 }
