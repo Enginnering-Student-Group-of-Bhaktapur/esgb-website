@@ -91,7 +91,7 @@ const events_list = [
   },
   {
     id: 5,
-    title: "Yomari Foodstall",
+    title: "ESGB Foodstall",
     slug: "20802024015",
     date_of_event: "2024-01-01",
     venue: "Pulchowk Campus",

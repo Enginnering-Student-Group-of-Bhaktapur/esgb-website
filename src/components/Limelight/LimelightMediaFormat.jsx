@@ -11,7 +11,7 @@ function LimelightMediaFormat({ limelight }) {
           width="100"
         />
         <div className="media-body">
-          <h6 className="m-0">{limelight.theme}</h6>
+          <h6 className="m-0" style={{fontWeight:"bold"}}>{limelight.theme}</h6>
           <span>{limelight.year_published}</span><br/>
           <a className="limelight_link" href={limelight.file} target="_blank" rel="noreferrer">View Limelight</a>
         </div>

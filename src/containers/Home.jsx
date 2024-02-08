@@ -4,6 +4,7 @@ import { Helmet } from "react-helmet";
 import Carousel from "../components/Home/Carousel";
 import FounderMessage from "../components/Home/FounderMessage";
 import Dress from "../components/Home/Dress";
+import AboutMessage from "../components/Home/About";
 
 
 function Home() {
@@ -17,6 +18,7 @@ function Home() {
         <title>ESGB - Engineering Students Group of Bhaktapur(ESGB)</title>
       </Helmet>
       <Carousel />
+      <AboutMessage/>
       {/* <FounderMessage /> */}
       {/* <Dress /> */}
     </React.Fragment>
