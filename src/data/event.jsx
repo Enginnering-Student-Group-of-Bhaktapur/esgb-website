@@ -1,4 +1,38 @@
-import banner_1 from "../../src/assets/img/banner_1.jpg"
+import orientation1 from "../../src/assets/img/orientation/1.jpg"
+import orientation2 from "../../src/assets/img/orientation/2.jpg"
+import orientation3 from "../../src/assets/img/orientation/3.jpg"
+
+import deusi1 from "../../src/assets/img/deusi_bhailo/1.jpg"
+import deusi2 from "../../src/assets/img/deusi_bhailo/2.jpg"
+import deusi3 from "../../src/assets/img/deusi_bhailo/3.jpg"
+import deusi4 from "../../src/assets/img/deusi_bhailo/4.jpg"
+import deusi5 from "../../src/assets/img/deusi_bhailo/5.jpg"
+import deusi6 from "../../src/assets/img/deusi_bhailo/6.jpg"
+
+import kora1 from "../../src/assets/img/kora/1.jpg"
+import kora2 from "../../src/assets/img/kora/2.jpg"
+
+import futsal1 from "../../src/assets/img/futsal/3.jpg"
+import futsal2 from "../../src/assets/img/futsal/9.jpg"
+import futsal3 from "../../src/assets/img/futsal/14.jpg"
+
+import welcome1 from "../../src/assets/img/welcome_farewell/1.jpg"
+import welcome2 from "../../src/assets/img/welcome_farewell/2.jpg"
+import welcome3 from "../../src/assets/img/welcome_farewell/3.jpg"
+import welcome4 from "../../src/assets/img/welcome_farewell/4.jpg"
+import welcome5 from "../../src/assets/img/welcome_farewell/5.jpg"
+
+import hike1 from "../../src/assets/img/hike/1.jpg"
+import hike2 from "../../src/assets/img/hike/2.jpg"
+import hike3 from "../../src/assets/img/hike/3.jpg"
+import hike4 from "../../src/assets/img/hike/4.jpg"
+import hike5 from "../../src/assets/img/hike/5.jpeg"
+
+import changa1 from "../../src/assets/img/changa_chet/1.jpg"
+import changa2 from "../../src/assets/img/changa_chet/2.jpg"
+import changa3 from "../../src/assets/img/changa_chet/3.jpg"
+import changa4 from "../../src/assets/img/changa_chet/4.jpg"
+
 const events_list = [
   {
     id: 1,
@@ -10,9 +44,9 @@ const events_list = [
       "The ESGB Orientation Program, held on June 12, 2023, was the inaugural event of the 20th ESGB Committee. The primary objective of the session was to familiarize the newly admitted batch of 2079 and also inspire senior batches to actively engage in upcoming ESGB events. The need for such an initiative arose from the observation of minimal participation by new members in major events like the Welcome-Farewell Picnic and Deusi-Bhailo. The dynamic session, conducted in the library hall, drew over 50 enthusiastic participants, predominantly comprising the then-first-year students. The program schedule featured a brief introduction and historical overview of ESGB, engaging quizzes, a captivating compilation video showcasing past committee events, lively musical performances, interactive games, and an open mic session providing a platform for new ESGB members to share and connect. The event concluded with a brief feedback session. The impact of the event became evident during the following Welcome Farewell Picnic, which witnessed the highest-ever participation from first-year students.",
     is_display: true,
     is_featured: false,
-    main_image: "../../src/assets/img/orientation/3.jpg",
-    image_1: "../../src/assets/img/orientation/1.jpg",
-    image_2: "../../src/assets/img/orientation/2.jpg",
+    main_image: orientation3,
+    image_1: orientation1,
+    image_2: orientation2,
   },
   {
     id: 2,
@@ -24,12 +58,12 @@ const events_list = [
       "Deusi Bhailo has been an ESGB signature event for the past decade. ESGBians' week-long preparation for the event is reflected in two days of vibrant celebration, highlighted by captivating and energetic performances, soulful songs, unwavering enthusiasm, correspondence, and logistics. The event contributed to the promotion of our cultural richness, the strengthening of bonds among ESGBians, and the creation of memories to be cherished forever, all of which will undoubtedly bring a smile to the faces of ESGBians.",
     is_display: true,
     is_featured: true,
-    main_image: "../../src/assets/img/deusi_bhailo/5.jpg",
-    image_1: "../../src/assets/img/deusi_bhailo/1.jpg",
-    image_2: "../../src/assets/img/deusi_bhailo/3.jpg",
-    image_3: "../../src/assets/img/deusi_bhailo/6.jpg",
-    image_4: "../../src/assets/img/deusi_bhailo/2.jpg",
-    image_5: "../../src/assets/img/deusi_bhailo/4.jpg",
+    main_image: deusi5,
+    image_1: deusi1,
+    image_2: deusi3,
+    image_3: deusi6,
+    image_4: deusi2,
+    image_5: deusi4,
   },
   {
     id: 3,
@@ -41,9 +75,9 @@ const events_list = [
       "ESGB, along with other renowned youth organizations in Bhaktapur, supported Cycle Connect Bhaktapur for their third Kora Cycling Challenge held on 16th July 2023. Cycle Connect Bhaktapur is a group of enthusiastic cyclists from Bhaktapur whose main mission is to enhance the cycling culture in the age-old heritage city of Bhaktapur, following a sustainable framework. Kora; started in 2011 is the biggest charity cycling ride in the Himalayas, with over 4000-5000 riders riding close to 175,000 km every year, in several locations in Nepal and around the world. Cycle Connect Bhaktapur conducted Kora Bhaktapur 23 with the main aim of promoting Bhaktapur as a national and international cycling destination by developing three different routes of 50, 75, and 100km that encircle the whole Bhaktapur district. Our volunteers from ESGB contributed to the event by serving as flag marshals and rescue teams mostly at section one of the cycling route from Naya Thimi to Changunarayan. ESGB was later awarded Token of Love and certificates to individual volunteers by Cycle Connect Bhaktapur for their time and efforts in making the event a grand success",
     is_display: true,
     is_featured: true,
-    main_image: "../../src/assets/img/kora/2.jpg",
-    image_1: "../../src/assets/img/kora/1.jpg",
-    image_2: "../../src/assets/img/kora/2.jpg",
+    main_image: kora2,
+    image_1:kora1,
+    image_2: kora2,
   },
   {
     id: 4,
@@ -55,9 +89,9 @@ const events_list = [
       "Throughout the year, ESGB has orchestrated three exhilarating Futsal events, each fostering a vibrant sense of community among our members and alumni. The inaugural match kicked off on the 2nd of Asar at the Khwopa Futsal Training Center, Suryavinayak. Following its success, our second event, held on the 18th of Kartik at Shooters' Futsal, Suryavinayak, garnered exceptional participation, with over 30 current members and alumni gracing the court with their presence. Most recently, our third Futsal extravaganza took place on the 30th of Mangsir at S. Glory Futsal, Sallaghari. These gatherings serve as invaluable opportunities for connection and camaraderie, further strengthening the bond among our esteemed members and alumni.",
     is_display: true,
     is_featured: false,
-    main_image: "../../src/assets/img/futsal/3.jpg",
-    image_1: "../../src/assets/img/futsal/9.jpg",
-    image_2: "../../src/assets/img/futsal/14.jpg",
+    main_image: futsal1,
+    image_1: futsal2,
+    image_2: futsal3,
   },
   {
     id: 5,
@@ -70,11 +104,11 @@ const events_list = [
       Customers took the matkas that the juju dhau was served on home; some even did diy and kept them as mementos, sending us photos and glowing testimonials. It was an experience full of excitement for our first business, a lot of questions if it would work out or not but we also knew that if we worked together and gave it our all, we could make it great, so we went ahead and did it! our first food stall!",
     is_display: true,
     is_featured: false,
-    main_image: "../../src/assets/img/welcome_farewell/4.jpg",
-    image_1: "../../src/assets/img/welcome_farewell/2.JPG",
-    image_2: "../../src/assets/img/welcome_farewell/3.JPG",
-    image_3: "../../src/assets/img/welcome_farewell/1.JPG",
-    image_4: "../../src/assets/img/welcome_farewell/5.jpg",
+    main_image: welcome4,
+    image_1: welcome2,
+    image_2: welcome3,
+    image_3: welcome1,
+    image_4: welcome5,
   },
   {
     id: 6,
@@ -89,11 +123,11 @@ const events_list = [
       In essence, the Welcome and Farewell Program of ESGB is more  a celebration of leadership, friendship, and the unwavering commitment to make a difference in the world around us.",
     is_display: true,
     is_featured: false,
-    main_image: "../../src/assets/img/welcome_farewell/4.jpg",
-    image_1: "../../src/assets/img/welcome_farewell/2.JPG",
-    image_2: "../../src/assets/img/welcome_farewell/3.JPG",
-    image_3: "../../src/assets/img/welcome_farewell/1.JPG",
-    image_4: "../../src/assets/img/welcome_farewell/5.jpg",
+    main_image: welcome4,
+    image_1: welcome2,
+    image_2: welcome3,
+    image_3: welcome1,
+    image_4: welcome5,
   },
   {
     id: 7,
@@ -108,11 +142,11 @@ const events_list = [
       In essence, the Welcome and Farewell Program of ESGB is more  a celebration of leadership, friendship, and the unwavering commitment to make a difference in the world around us.",
     is_display: true,
     is_featured: false,
-    main_image: "../../src/assets/img/hike/3.jpg",
-    image_1: "../../src/assets/img/hike/1.jpg",
-    image_2: "../../src/assets/img/hike/2.jpg",
-    image_3: "../../src/assets/img/hike/4.jpg",
-    image_4: "../../src/assets/img/hike/5.jpeg",
+    main_image: hike3,
+    image_1: hike1,
+    image_2: hike2,
+    image_3: hike4,
+    image_4: hike5,
   },
   {
     id: 8,
@@ -127,11 +161,11 @@ const events_list = [
       In essence, the Welcome and Farewell Program of ESGB is more  a celebration of leadership, friendship, and the unwavering commitment to make a difference in the world around us.",
     is_display: true,
     is_featured: false,
-    main_image: "../../src/assets/img/changa_chet/4.jpg",
-    image_1: "../../src/assets/img/changa_chet/1.jpg",
-    image_2: "../../src/assets/img/changa_chet/3.jpg",
-    image_3: "../../src/assets/img/changa_chet/2.jpg",
-    image_4: "../../src/assets/img/changa_chet/4.jpg",
+    main_image: changa4,
+    image_1: changa1,
+    image_2: changa3,
+    image_3: changa2,
+    image_4: changa4,
   },
 ];
 
