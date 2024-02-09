@@ -1,7 +1,5 @@
 import React from "react";
 
-import FounderPic from '../../assets/img/founder.jpg';
-
 function FounderMessage() {
   return (
     <section>
@@ -51,9 +49,9 @@ function FounderMessage() {
               bleak this me more thing floor at the the. Thing sought.
             </p>
           </div>
-          <div className="col-md-4">
+          {/* <div className="col-md-4">
             <img src={FounderPic} className="img-fluid" alt="Founder" />
-          </div>
+          </div> */}
         </div>
       </div>
     </section>

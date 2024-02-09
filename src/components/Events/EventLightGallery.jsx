@@ -16,7 +16,7 @@ function EventGallery({ event_images }) {
     event_images.map((image_url) => {
       return result.push(
         <a href={image_url} key={image_url}>
-          <img alt="sub event images" src={image_url} style={{width : 100, height : 100}}/>
+          <img alt="sub event images" src={image_url} style={{width : 300, height : "auto", margin:"10px"}}/>
         </a>
       );
     });
@@ -25,7 +25,7 @@ function EventGallery({ event_images }) {
   };
 
   return (
-    <div className="App">
+    <div className="App" style={{display:'flex' , justifyContent: "center", flexWrap:"wrap"}} >
       <LightGallery onInit={onInit} speed={500}>
         {displayImage()}
       </LightGallery>

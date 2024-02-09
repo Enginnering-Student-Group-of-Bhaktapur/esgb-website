@@ -1,5 +1,5 @@
 import React from "react";
-import tshirt from "../../assets/img/d1.png"
+import hike from "../../assets/img/hike/2.jpg"
 
 function AboutMessage() {
   return (
@@ -53,7 +53,7 @@ function AboutMessage() {
             </p>
           </div>
           <div className="col-md-4">
-            <img src={tshirt} className="img-fluid" alt="Tshirt" />
+            <img src={hike} className="img-fluid" alt="hike" style={{marginTop:50}}/>
           </div>
         </div>
       </div>
